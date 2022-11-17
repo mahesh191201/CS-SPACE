@@ -1,0 +1,57 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    background: whitesmoke;
+    width: 270px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 15px 15px;
+
+}
+
+.card-image{
+    background-color: rgb(244, 240, 240);
+    height: 300px;
+    margin-bottom: 0px;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.car-1{
+    background-image: url('/src/media/mahesh2.jpg');
+}
+
+.car-2{
+    background-image: url('/src/media/aayush1.jpeg');
+}
+
+.car-3{
+    background-image: url('/src/media/shree2.jpeg');
+}
+
+.car-4{
+    background-image: url('/src/media/ashish2.jpeg');
+}
+
+
+
+.card p{
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card:hover{
+    /* background-color: rgb(234, 86, 18); 
+    color: white; */
+    cursor: pointer;
+    transform: scale(1.05);
+    transform: all 1s ease;
+}
