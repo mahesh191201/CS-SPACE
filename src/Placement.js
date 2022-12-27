@@ -20,7 +20,7 @@ function Placement() {
       <ClipLoader className='spinner' color={'#D0021B'} loading={loading} size={50} />
       :
     <div className='container'>
-        <h3 className='text-center py-5'>Download the required study material here 👇</h3>
+        <h3 className='text-center py-5'>Download Notes here <i class="fa-regular fa-hand-point-down"></i></h3>
         <hr/>
         <h5 className='text-left'><b>Ist Year</b></h5>
          <ul className='text-left'>

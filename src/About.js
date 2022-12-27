@@ -32,15 +32,15 @@ function About() {
 
       <h3 className='heading text-center mt-5'><b>ABOUT</b></h3>
         <p className='para text-left mt-2'>
-        CS SPACE is an academic portal for CS undergrads of GIET. Here you will find the much-needed exam papers and study material you require to pull the night before the exam. Our motive is to provide the every required material for students in one place to avoid the rush at the last moment. Moreover, we are also working to add things needed to prepare for Placements. This project was undertaken by a bunch of coding enthusiasts of CSE batch 2020-24. You can also collaborate and contribute to this project. Suggestions are welcome!!
+        CS SPACE is an unofficial academic portal for CS undergrads of GIET. Here you will find the much needed exam papers and study material you require to pull the night before the exam. Our motive is to provide every material you need throughout your 4 years at one place and reduce the burden on faculty. Moreover, we are also working on Placement preparation section. This project was undertaken by a bunch of coding enthusiasts of CSE batch 2020-24. You can also collaborate and contribute to this project through emailing any of the team member or click on whatsapp symbol. Suggestions are welcome!!
 
 
-      <hr/>
+      <hr className='mt-5'/>
         </p>
       </div>
 
 
-      <h3 className='text-center mt-4'><b>TAKE A LOOK AT OUR TEAM</b></h3>
+      <h3 className='text-center mt-5'><b>TAKE A LOOK AT OUR TEAM</b></h3>
         <Cards/>
      </div>
 

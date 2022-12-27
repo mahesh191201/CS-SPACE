@@ -4,7 +4,7 @@ import './Cards.css'
 function Cards() {
   return (
     <div>
-         <section className="container1 mt-5">
+      <section className="container1 mt-5">
         <div className="card">
             <div className="card-image car-1"></div>
             <h2 className='text-center'>Founder</h2>

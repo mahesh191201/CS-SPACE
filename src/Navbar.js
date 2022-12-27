@@ -21,22 +21,28 @@ function Navbar() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ms-auto">
         <li className="nav-item">
-          <Link className="nav-link" aria-current="page" to="/">🏠Home</Link>
+          <Link className="nav-link" aria-current="page" to="/"><i class="fa-solid fa-house"></i> Home</Link>
          
 
 
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/about">📖Know Us</Link>
+          <Link className="nav-link" to="/about"><i class="fa-solid fa-book-open"></i> About us</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/examspace">📝Download Exam Papers</Link>
+          <Link className="nav-link" to="/examspace"><i class="fa-solid fa-note-sticky"></i> Exam Papers</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/placement">📚Download Notes</Link>
+          <Link className="nav-link" to="/placement"><i class="fa-solid fa-book"></i> Notes</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/placement1">🎓Placement Preparation</Link>
+          <Link className="nav-link" to="/placement1"><i class="fa-solid fa-graduation-cap"></i> Placement Preparation</Link>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://accounts.google.com/v3/signin/identifier?dsh=S-821394334%3A1672066426000790&continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScfKQgyhh14zNBWhjrxCa-6pVUbpJSeGqoXsknk9bFvEmxuJw%2Fviewform%3Fusp%3Dsf_link&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScfKQgyhh14zNBWhjrxCa-6pVUbpJSeGqoXsknk9bFvEmxuJw%2Fviewform%3Fusp%3Dsf_link&ltmpl=forms&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6lTH6QEBTFnAMoh5y1vVrJjxrN82lxnDsWKU5d4z9hzYldrX_89BfrZYSJHopEprc8nvTO"><i class="fa-solid fa-upload"></i> Send Us Material</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href=" https://wa.me/919381740439"><i class="fa-brands fa-whatsapp"></i> Contact</a>
         </li>
         
       </ul>

@@ -25,16 +25,16 @@ function Footer() {
         
         <footer className='footer'>
     <div className='social'>
-        <a href=''><i className='fab fa-instagram'></i></a>
-        <a href=''><i className='fab fa-twitter'></i></a>
-        <a href=''><i className='fab fa-linkedin'></i></a>
+        <a href='https://www.instagram.com/wtfmaahesh/'><i className='fab fa-instagram'></i></a>
+        <a href='https://twitter.com/matrixmahesh19'><i className='fab fa-twitter'></i></a>
+        <a href='https://www.linkedin.com/in/mahesh-rallabhandi-488848142/'><i className='fab fa-linkedin'></i></a>
     </div>
     <ul className='list'>
         <li>
             <Link to='/'>Home</Link>
         </li>
         <li>
-            <Link to='/about'>Know us</Link>
+            <Link to='/about'>About Us</Link>
         </li>
         <li>
             <Link to='/examspace'>Download Exam Papers</Link>

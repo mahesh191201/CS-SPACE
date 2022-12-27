@@ -1,0 +1,51 @@
+.t_box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.t_card{
+    background: #2d3a59;
+    width: 400px;
+    height: 270px;
+    margin: 10px;
+    border-radius: 15px 15px;
+
+}
+
+.t_card_image{
+    /* background-color: rgb(244, 240, 240); */
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    background-size: cover;
+}
+
+
+.cr-1{
+    background-image: url('/src/media/mahesh2.jpg');
+}
+
+.cr-2{
+    background-image: url('/src/media/aayush1.jpeg');
+}
+
+.cr-3{
+    background-image: url('/src/media/shree2.jpeg');
+}
+
+
+
+.t_card p{
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+

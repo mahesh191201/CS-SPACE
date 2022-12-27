@@ -31,7 +31,7 @@ function Examspace() {
        :
       <div>
        <h3 className="text-center py-5">
-        Download the previous year question papers here 👇
+      Download the previous year question papers here <i class="fa-regular fa-hand-point-down"></i>
       </h3>
     
     <div className="container">
