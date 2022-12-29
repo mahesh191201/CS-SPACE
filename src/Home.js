@@ -102,7 +102,7 @@ function Home() {
 <div>
   <h1 className='text-center mt-5'>TESTIMONIALS <i class="fa-solid fa-comment"></i></h1>
 <div className='mt-2'>
-<h3 className='text-center'>Read what people has said about us</h3>
+<h3 className='text-center'>Read what various people has opined about us</h3>
 </div>
   <Testimonial/>
 </div>

@@ -30,11 +30,14 @@ function Examspace() {
        <ClipLoader className='spinner' color={'#D0021B'} loading={loading} size={50} />
        :
       <div>
+
        <h3 className="text-center py-5">
       Download the previous year question papers here <i class="fa-regular fa-hand-point-down"></i>
       </h3>
+      <h6 className='text-center'>Note: All year papers may not be available. If you have any previous year papers kindly share with us.</h6>
+      
     
-    <div className="container">
+    <div className="container mt-4">
     <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">

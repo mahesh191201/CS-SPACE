@@ -40,7 +40,7 @@ function About() {
       </div>
 
 
-      <h3 className='text-center mt-5'><b>TAKE A LOOK AT OUR TEAM</b></h3>
+      <h3 className='text-center mt-5'><b>HAVE A LOOK AT OUR TEAM</b></h3>
         <Cards/>
      </div>
 
