@@ -5,6 +5,8 @@ import ClipLoader from "react-spinners/ClipLoader";
 import Cards1 from './Cards1';
 import { Link } from 'react-router-dom';
 import Testimonial from './Testimonial';
+import pic from './media/lab.jpg'
+
 
 
 
@@ -12,7 +14,7 @@ import Testimonial from './Testimonial';
 
 // const pic1= new URL("https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2186302/settings_images/pt3dMMAKQ0m7zWobyr55_photo-1484417894907-623942c8ee29.webp")
 
-const pic1= new URL("https://giet.ac.in/public/assets/images/devices.jpg")
+// const pic1= ('/src/media/lab.jpg')
 
 // const pic2= new URL("https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80")
 
@@ -54,7 +56,7 @@ function Home() {
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src={pic1} className="d-block w-100" alt=""/>
+      <img src={pic} className="d-block w-100" alt=""/>
       <div className="carousel-caption">
         <h5><b>✅ WELCOME TO GIET CS SPACE</b></h5>
        

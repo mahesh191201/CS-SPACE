@@ -11,21 +11,31 @@ function Testimonial() {
                 <br/>
                 <i class="fa-solid fa-quote-left"></i>
                 <br/>
-                Dr B.Sujatha <br/>
-                HOD CSE Dept
+                Nazneen <br/>
+                3rd Year CSE
                
             </p>
         </div>
 
         <div className='t_card'>
             <div className='t_card_image cr-2'></div>
-            <p>lorem ipsum swodwqkjdowq
+            <p>CS Space addresses the most overlooked problem in every college.
+            <br/>
+                <i class="fa-solid fa-quote-left"></i>
+                <br/>
+                K. Siva <br/>
+                3rd Year CR CSE
             </p>
         </div>
 
         <div className='t_card'>
             <div className='t_card_image cr-3'></div>
-            <p>lorem ipsum swodwqkjdowq
+            <p>CS Space has personally helped me a lot in acing semester exams.
+            <br/>
+                <i class="fa-solid fa-quote-left"></i>
+                <br/>
+                P. Bhargav <br/>
+                2nd Year CSE
             </p>
         </div>
 
